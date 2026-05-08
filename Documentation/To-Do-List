@@ -2,7 +2,7 @@
 
 - write full documentation and explanation to best of my abilities over all steps and testings, including all failures. This should also include stuff learned and taken away. This also includes YOLO_Balcony_Detector
 
-- write full README.md for YOLO_Balcony_Detector
+- ~~write full README.md for YOLO_Balcony_Detector~~
 
 - Get Gather_Balcony_Files to generate usable 3D model 
 
@@ -16,7 +16,7 @@
 
 - Make sure to specify which parts are done on local computer (windows) and PACE (ICE) computing cluster (Linux)
 
-- Acknowledge the use of Claude
+- ~~Acknowledge the use of Claude~~
 
 - look at google api for globe mesh, blosm, blender workflow 
 
