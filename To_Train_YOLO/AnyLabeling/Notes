@@ -1,0 +1,13 @@
+To Train Yolov8, it requires image data with polygons or bounding boxes over all desired subjects. It takes in images and the user manually labels the images, then the data is given to the model to be trained. 
+
+For more information see: https://anylabeling.nrl.ai/ 
+
+To get started:
+
+```python
+# Install
+pip install anylabeling
+
+# Run app
+python -m anylabeling.app
+```
