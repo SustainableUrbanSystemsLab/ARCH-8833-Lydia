@@ -1,6 +1,3 @@
 [submodule "Yolo_Balcony_Detector"]
 	path = Yolo_Balcony_Detector
 	url = https://github.com/lseils/Yolo_Balcony_Detector
-[submodule "Gather_Balcony"]
-	path = Gather_Balcony
-	url = https://github.com/lseils/Gather_Balcony.git
