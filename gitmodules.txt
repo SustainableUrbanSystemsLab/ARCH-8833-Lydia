@@ -1,4 +1,0 @@
-[submodule "Yolo_Balcony_Detector"]
-	path = Yolo_Balcony_Detector
-	url = https://github.com/lseils/Yolo_Balcony_Detector
-
